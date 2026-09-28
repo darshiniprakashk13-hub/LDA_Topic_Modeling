@@ -1,0 +1,8 @@
+Topic,Top Words,Probabilities
+Topic 1,"people, life, know, way, thing, get, even, make, think, day","0.0082, 0.0064, 0.0061, 0.006, 0.0056, 0.0053, 0.0052, 0.005, 0.005, 0.0049"
+Topic 2,"trump, twitter, president, com, white, weinstein, pic, show, news, game","0.0206, 0.0103, 0.0094, 0.0071, 0.007, 0.0059, 0.0058, 0.0058, 0.0055, 0.0048"
+Topic 3,"school, american, state, student, community, right, people, country, many, white","0.0084, 0.0074, 0.007, 0.0069, 0.0067, 0.0066, 0.0061, 0.0061, 0.0056, 0.0051"
+Topic 4,"state, law, told, statement, police, would, case, according, court, report","0.0082, 0.0074, 0.0073, 0.006, 0.0058, 0.0053, 0.0052, 0.0051, 0.005, 0.0047"
+Topic 5,"company, facebook, apple, google, data, user, percent, tech, million, would","0.0228, 0.0136, 0.0091, 0.0085, 0.0084, 0.0076, 0.0074, 0.0062, 0.0062, 0.0061"
+Topic 6,"woman, sexual, men, assault, harassment, abortion, abuse, girl, victim, nassar","0.1137, 0.0359, 0.0236, 0.0157, 0.0129, 0.0127, 0.0122, 0.0109, 0.0101, 0.0099"
+Topic 7,"city, car, world, scientist, water, change, space, climate, system, first","0.007, 0.0066, 0.0057, 0.0052, 0.0051, 0.0048, 0.0047, 0.0047, 0.0043, 0.0042"
